@@ -1,2 +1,2 @@
-# Captcha-Breaker
-A python script based on Google Tesseract and/or Deep Learning.
+# SIS Login Script
+A python script to automatically login into SIS website.
